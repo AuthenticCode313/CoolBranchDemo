@@ -6,7 +6,8 @@ namespace BranchTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Alice");
+            Console.WriteLine("Hello Alice, Today is such a beautiful day!");
+            Console.WriteLine("God is Good.");
         }
     }
 }
