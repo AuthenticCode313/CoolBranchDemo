@@ -8,6 +8,7 @@ namespace BranchTest
         {
             Console.WriteLine("Hello Alice, Today is such a beautiful day!");
             Console.WriteLine("God is Good.");
+            Console.WriteLine("Maple syrup and pancakes are good");
         }
     }
 }
