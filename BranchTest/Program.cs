@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace BranchTest
 {
@@ -8,7 +8,11 @@ namespace BranchTest
         {
             Console.WriteLine("Hello Alice, Today is such a beautiful day!");
             Console.WriteLine("God is Good.");
+
+            Console.WriteLine("Waffles and Maple Syrup is good too");
+
             Console.WriteLine("Maple syrup and pancakes are good");
+
         }
     }
 }
